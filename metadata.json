@@ -1,0 +1,5 @@
+{
+  "name": "Copy of Gemini Quota Playground",
+  "description": "A dashboard to simulate and track daily AI prompt usage limits while interacting with the Gemini API. It provides real-time visualization of quota consumption.",
+  "requestFramePermissions": []
+}
